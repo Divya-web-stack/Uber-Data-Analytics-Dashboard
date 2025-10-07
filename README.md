@@ -22,7 +22,7 @@ A picture is worth a thousand words, but an interactive dashboard is worth a mil
 *(**Pro Tip:** Record a short screen capture of you interacting with the dashboard and save it as a GIF. It's the best way to showcase your work!)*
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x450/2c2c2c/ffffff.gif?text=Your+Interactive+Dashboard+GIF+Here" alt="Dashboard GIF Preview" width="80%">
+  <img src="https://github.com/Divya-web-stack/Uber-Data-Analytics-Dashboard/blob/main/DashboardUber.png" alt="Dashboard GIF Preview" width="80%">
 </p>
 
 ---
