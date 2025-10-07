@@ -25,6 +25,6 @@ Time intelligence functions to analyze trends.
 Dashboard Design: An interactive dashboard was designed with a combination of visuals (charts, KPIs, maps, slicers) to present the insights in an intuitive and business-friendly manner.
 
 🖼️ Dashboard Preview
-![Main Dashboard Screenshot]([https://via.placeholder.com/800x450.png?text=PASTE+YOUR+MAIN+DASHBOARD+URL+HERE](https://github.com/Divya-web-stack/Uber-Data-Analytics-Dashboard/blob/main/DashboardUber.png))
+![Main Dashboard Screenshot](https://via.placeholder.com/800x450.png?text=PASTE+YOUR+MAIN+DASHBOARD+URL+HERE](https://github.com/Divya-web-stack/Uber-Data-Analytics-Dashboard/blob/main/DashboardUber.png)
 ![Hourly Trends Screenshot](https://via.placeholder.com/800x450.png?text=PASTE+YOUR+HOURLY+ANALYSIS+URL+HERE)
 ![Map Screenshot](https://via.placeholder.com/800x450.png?text=PASTE+YOUR+GEOSPATIAL+MAP+URL+HERE)
