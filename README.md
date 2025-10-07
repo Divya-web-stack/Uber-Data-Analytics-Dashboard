@@ -86,15 +86,14 @@ To explore this project on your own machine, follow these simple steps:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone https://github.com/Divya-web-stack/Uber-Data-Analytics-Dashboard.git
     ```
 
 2.  **Run the Data Cleaning Script**
     * Make sure you have Python and Pandas installed.
     * Execute the script to generate the `cleaned_uber_data.csv`.
     ```bash
-    python your_cleaning_script.py
+    python UberDataAnalytics.py
     ```
 
 3.  **Launch the Dashboard**
