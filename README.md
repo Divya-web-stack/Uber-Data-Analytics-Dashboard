@@ -16,10 +16,8 @@
 ---
 
 ## ✨ The Dashboard in Action
+Below is a preview of the final product, designed for clarity and deep-dive analysis.
 
-A picture is worth a thousand words, but an interactive dashboard is worth a million. Below is a preview of the final product, designed for clarity and deep-dive analysis.
-
-*(**Pro Tip:** Record a short screen capture of you interacting with the dashboard and save it as a GIF. It's the best way to showcase your work!)*
 
 <p align="center">
   <img src="https://github.com/Divya-web-stack/Uber-Data-Analytics-Dashboard/blob/main/DashboardUber.png" alt="Dashboard GIF Preview" width="80%">
